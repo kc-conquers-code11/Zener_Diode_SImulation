@@ -126,6 +126,7 @@ Have a question, suggestion, or just want to say hi? Reach out!
 
 * 🌐 **Website**: [zenersim.netlify.app](https://zenersim.netlify.app)
 * 📱 **App Access**: [rb.gy/0aigtz](https://rb.gy/0aigtz)
+* 📱 **Explainer Video**: [youtu.be/VYTMWNntCx0](https://youtu.be/VYTMWNntCx0)
 
 <br>
 
